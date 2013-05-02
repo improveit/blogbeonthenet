@@ -1,137 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE HTML>
-<html>
-<head>
-	<meta charset="utf-8">
-	<title>Be on the Net</title>
-	<meta name="author" content="Vinícius Teles">
-
-	
-	<meta name="description" content="No artigo anterior, explicamos por que &eacute; importante ter um site profissional. Saiba mais sobre esse assunto no v&iacute;deo abaixo: &nbsp; &hellip;">
-	
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-	<link href="http://feeds.feedburner.com/BlogBeOnTheNet" rel="alternate" title="Be on the Net" type="application/atom+xml">
-	<link rel="canonical" href="">
-	<link href="/favicon.png" rel="shortcut icon">
-	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	
-</head>
-
-<body>
-	<header id="header" class="inner"><h1><a href="/">Be on the Net</a></h1>
-<nav id="main-nav"><ul class="main">
-	<li><a href="/">Blog</a></li>
-	<li><a href="/blog/archives">Archives</a></li>
-</ul>
-</nav>
-<nav id="mobile-nav">
-	<div class="alignleft menu">
-		<a class="button">Menu</a>
-		<div class="container"><ul class="main">
-	<li><a href="/">Blog</a></li>
-	<li><a href="/blog/archives">Archives</a></li>
-</ul>
-</div>
-	</div>
-	<div class="alignright search">
-		<a class="button"></a>
-		<div class="container">
-			<form action="http://google.com/search" method="get">
-				<input type="text" name="q" results="0">
-				<input type="hidden" name="q" value="site:blog.beonthe.net">
-			</form>
-		</div>
-	</div>
-</nav>
-<nav id="sub-nav" class="alignright">
-	<div class="social">
-		
-		<a class="facebook" href="http://www.facebook.com/beonthenet.com.br" title="Facebook">Facebook</a>
-		
-		
-		
-		<a class="twitter" href="http://twitter.com/beonthenet" title="Twitter">Twitter</a>
-		
-		
+  <title><![CDATA[Be on the Net]]></title>
+  <link href="http://blog.beonthe.net/atom.xml" rel="self"/>
+  <link href="http://blog.beonthe.net/"/>
+  <updated>2013-05-02T15:25:37-03:00</updated>
+  <id>http://blog.beonthe.net/</id>
+  <author>
+    <name><![CDATA[Vinícius Teles]]></name>
     
-		
-		
-		
-		
-		
-		<a class="rss" href="http://feeds.feedburner.com/BlogBeOnTheNet" title="RSS">RSS</a>
-		
-	</div>
-	<form class="search" action="http://google.com/search" method="get">
-		<input class="alignright" type="text" name="q" results="0">
-		<input type="hidden" name="q" value="site:blog.beonthe.net">
-	</form>
-</nav>
-
-</header>
-	
-		
-	
-	<div id="content" class="inner">
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/video-site-profissional-por-que-e-tao-importa">
-		
-			Vídeo: site profissional, por que é tão importante?</a>
-	</h2>
-	<div class="entry-content">
-		<p>No artigo anterior, explicamos <a href="http://blog.beonthe.net/site-profissional-por-que-e-tao-importante-te">por que &eacute; importante ter um site profissional</a>. Saiba mais sobre esse assunto no v&iacute;deo abaixo:</p>
-<p><iframe allowfullscreen="true" src="http://www.youtube.com/embed/A7l83RdS7Dc" frameborder="0" height="360" width="640"></iframe></p>
-<p>&nbsp;</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-
-
-<time datetime="2013-03-05T00:00:00-03:00" pubdate data-updated="true">Mar 5<span>th</span>, 2013</time></div>
-	<div class="tags">
-
-
-	<a class='category' href='/blog/categories/marketing/'>marketing</a>, <a class='category' href='/blog/categories/marketing-na-internet/'>marketing na internet</a>, <a class='category' href='/blog/categories/site-profissional/'>site profissional</a>
-
-
-</div>
-	
-		<div class="comments"><a href="/video-site-profissional-por-que-e-tao-importa#disqus_thread">Comments</a></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/site-profissional-por-que-e-tao-importante-te">
-		
-			Site profissional: por que é tão importante ter um?</a>
-	</h2>
-	<div class="entry-content">
-		<p><img src="/images/internet.jpg" alt="Site profissional: por que é tão importante ter um?" /></p>
+  <entry>
+    <title type="html"><![CDATA[Vídeo: site profissional, por que é tão importante?]]></title>
+    <link href="http://blog.beonthe.net/video-site-profissional-por-que-e-tao-importa"/>
+    <updated>2013-03-05T00:00:00-03:00</updated>
+    <id>http://blog.beonthe.net/video-site-profissional-por-que-e-tao-importa</id>
+    <content type="html"><![CDATA[<p>No artigo anterior, explicamos <a href="http://blog.beonthe.net/site-profissional-por-que-e-tao-importante-te">por que &eacute; importante ter um site profissional</a>. Saiba mais sobre esse assunto no v&iacute;deo abaixo:</p>
+<p><iframe allowfullscreen="true" src="http://www.youtube.com/embed/A7l83RdS7Dc" frameborder="0" height="360" width="640"></iframe></p>
+<p>&nbsp;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Site profissional: por que é tão importante ter um?]]></title>
+    <link href="http://blog.beonthe.net/site-profissional-por-que-e-tao-importante-te"/>
+    <updated>2013-02-20T00:00:00-03:00</updated>
+    <id>http://blog.beonthe.net/site-profissional-por-que-e-tao-importante-te</id>
+    <content type="html"><![CDATA[<p><img src="http://blog.beonthe.net/images/internet.jpg" alt="Site profissional: por que é tão importante ter um?" /></p>
 <p><span style="font-size: x-small;">Foto de&nbsp;<a href="http://www.flickr.com/photos/jamescridland/2769699053/">James Cridland</a>&nbsp;(CC).</span></p>
 <p>Assim que confirmou a data das f&eacute;rias, Amanda come&ccedil;ou a buscar as passagens a&eacute;reas na internet. Em seguida, procurou hot&eacute;is, leu coment&aacute;rios e escolheu o mais promissor. Para isso, consultou tamb&eacute;m um mapa na internet para ver quais ficavam mais perto da praia. Como tinha d&uacute;vidas sobre o transporte do aeroporto at&eacute; o hotel, pesquisou um pouco mais na internet e descobriu que podia pegar um &ocirc;nibus baratinho at&eacute; um local pr&oacute;ximo do hotel. Por fim, colocou todas as informa&ccedil;&otilde;es em uma planilha, tamb&eacute;m na internet, e compartilhou com o marid&atilde;o, Jorge.&nbsp;</p>
 <p>Amanda, casada com Jorge h&aacute; apenas um ano, &eacute; dessas que usa a internet para tudo. At&eacute; o pr&oacute;prio casamento foi praticamente todo organizado pela internet, a come&ccedil;ar pela pesquisa dos fornecedores.</p>
@@ -175,49 +73,15 @@
 <p>Autor:&nbsp;<a href="http://viniciusteles.com.br">Vin&iacute;cius Teles</a>.</p>
 <p />
 <p>&nbsp;</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-02-20T00:00:00-03:00" pubdate data-updated="true">Feb 20<span>th</span>, 2013</time></div>
-	<div class="tags">
-
-
-	<a class='category' href='/blog/categories/site-profissional/'>site profissional</a>
-
-
-</div>
-	
-		<div class="comments"><a href="/site-profissional-por-que-e-tao-importante-te#disqus_thread">Comments</a></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/quem-esta-disposto-a-fazer-o-dever-de-casa">
-		
-			Quem está disposto a fazer o dever de casa?</a>
-	</h2>
-	<div class="entry-content">
-		<p><img src="/images/b_c_priscila_lfelipe_0762a.jpg" alt="Quem está disposto a fazer o dever de casa?" /></p>
+  <entry>
+    <title type="html"><![CDATA[Quem está disposto a fazer o dever de casa?]]></title>
+    <link href="http://blog.beonthe.net/quem-esta-disposto-a-fazer-o-dever-de-casa"/>
+    <updated>2013-01-29T00:00:00-02:00</updated>
+    <id>http://blog.beonthe.net/quem-esta-disposto-a-fazer-o-dever-de-casa</id>
+    <content type="html"><![CDATA[<p><img src="http://blog.beonthe.net/images/b_c_priscila_lfelipe_0762a.jpg" alt="Quem está disposto a fazer o dever de casa?" /></p>
 <p><span style="font-size: x-small;">Foto de <a href="http://patriciafigueira.com.br">Patricia Figueira</a>.</span></p>
 <p>&Iacute;sis &eacute; cerimonialista. Outro dia soltou essa no Facebook:</p>
 <p>&#8220;Est&aacute; cada vez mais dif&iacute;cil ser cerimonialista. &Eacute; tanta gente entrando no mercado, sem no&ccedil;&atilde;o, totalmente amadora e cobrando valores completamente fora da realidade! Desse jeito, vai todo mundo falir.&#8221;</p>
@@ -264,49 +128,15 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-01-29T00:00:00-02:00" pubdate data-updated="true">Jan 29<span>th</span>, 2013</time></div>
-	<div class="tags">
-
-
-	<a class='category' href='/blog/categories/cerimonial/'>cerimonial</a>, <a class='category' href='/blog/categories/dever-de-casa/'>dever de casa</a>, <a class='category' href='/blog/categories/empreendedorismo/'>empreendedorismo</a>
-
-
-</div>
-	
-		<div class="comments"><a href="/quem-esta-disposto-a-fazer-o-dever-de-casa#disqus_thread">Comments</a></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/o-poder-de-uma-boa-historia-92938">
-		
-			O poder de uma boa história</a>
-	</h2>
-	<div class="entry-content">
-		<p><img src="/images/jucy.jpg" alt="O poder de uma boa história" /></p>
+  <entry>
+    <title type="html"><![CDATA[O poder de uma boa história]]></title>
+    <link href="http://blog.beonthe.net/o-poder-de-uma-boa-historia-92938"/>
+    <updated>2013-01-15T00:00:00-02:00</updated>
+    <id>http://blog.beonthe.net/o-poder-de-uma-boa-historia-92938</id>
+    <content type="html"><![CDATA[<p><img src="http://blog.beonthe.net/images/jucy.jpg" alt="O poder de uma boa história" /></p>
 <p><span style="font-size: x-small;">Foto de <a href="http://patriciafigueira.com.br">Patricia Figueira</a>.</span></p>
 <p><span style="font-size: x-small;"><em>Veja apenas o <a href="#video">v&iacute;deo de 2 minutos</a> se preferir.</em></span></p>
 <p>Em Bruxelas, na B&eacute;lgica, existe uma pequena <a href="http://pt.wikipedia.org/wiki/Manneken_Pis">est&aacute;tua de bronze no formato de um menino fazendo xixi</a>. Em Copenhague, na Dinamarca, h&aacute; uma pequena <a href="http://pt.wikipedia.org/wiki/A_Pequena_Sereia_(est%C3%A1tua)">est&aacute;tua no formato de uma sereia</a>. As duas s&atilde;o bem sem gra&ccedil;a quando vistas ao vivo. Nada que se compare, por exemplo, &agrave;s&nbsp;<a href="http://images.google.com/search?num=10&amp;hl=en&amp;site=&amp;tbm=isch&amp;source=hp&amp;biw=1491&amp;bih=1044&amp;q=estatuas+fernando+botero&amp;oq=estatuas+fernando+botero&amp;gs_l=img">est&aacute;tuas gorditas</a>&nbsp;de&nbsp;<a href="http://pt.wikipedia.org/wiki/Fernando_Botero">Botero</a>. Entratanto, ambas s&atilde;o visitadas por milhares de turistas todos os anos. Por que?</p>
@@ -331,7 +161,7 @@
 <p>&Agrave;s vezes &eacute; ainda mais sutil. Conhece a marca de sorvetes <a href="http://pt.wikipedia.org/wiki/H%C3%A4agen-Dazs">H&auml;agen-Dazs</a>? Sabe de onde ela &eacute;? A maioria das pessoas acha que se trata de uma marca europeia, provavelmente dinamarquesa ou de algum pa&iacute;s escandinavo. Da&iacute; conclui que se trata de um produto importado, de alta qualidade.</p>
 <p>O simples nome da marca j&aacute; transmite uma hist&oacute;ria, ou melhor, induz a uma hist&oacute;ria. O que nem todos sabem &eacute; que, na verdade, a marca foi criada nos EUA. O nome <a href="http://pt.wikipedia.org/wiki/H%C3%A4agen-Dazs">H&auml;agen-Dazs</a> n&atilde;o significa absolutamente nada. Foi apenas criado para transmitir a impress&atilde;o de ser uma marca dinamarquesa. E deu certo.</p>
 <p>Palavras n&atilde;o s&atilde;o a &uacute;nica forma de contar uma hist&oacute;ria e se distinguir. Ano passado aluguei uma&nbsp;<a href="http://www.jucy.co.nz/vehicles/jucy-cabana.aspx">campervan</a> na Nova Zel&acirc;ndia de uma empresa chamada <a href="http://www.jucy.co.nz">Jucy</a>. Ela transmite sua hist&oacute;ria brilantemente, atrav&eacute;s de ilustra&ccedil;&otilde;es de personagens no estilo anos 50. Al&eacute;m disso, seus ve&iacute;culos s&atilde;o pintados de verde e lil&aacute;s. Uma combina&ccedil;&atilde;o forte, que chama muita aten&ccedil;&atilde;o.&nbsp;</p>
-<p><img src="/images/causo.jpg" alt="O poder de uma boa história" /></p>
+<p><img src="http://blog.beonthe.net/images/causo.jpg" alt="O poder de uma boa história" /></p>
 <p>Os personagens fazem o estilo legal e descolado. As cores fortes tamb&eacute;m refor&ccedil;am essa caracter&iacute;stica e todo o discurso da empresa, escrito ou falado, busca transmitir essa mesma ideia. No fundo, tudo isso transmite a hist&oacute;ria de que a empresa &eacute; descolada, legal, descontra&iacute;da, feita para pessoas igualmente legais e de bem com a vida.</p>
 <p>&nbsp;</p>
 <p><strong>Conclus&atilde;o</strong></p>
@@ -341,49 +171,15 @@
 <p><a name="video"></a></p>
 <p><iframe allowfullscreen="true" src="https://www.youtube.com/embed/zvD7MIwTTRA?list=PLtymxq36gRKO6uo81BXcf6M9h9SsRr_rS" frameborder="0" height="315" width="560"></iframe></p>
 <p>&nbsp;</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-01-15T00:00:00-02:00" pubdate data-updated="true">Jan 15<span>th</span>, 2013</time></div>
-	<div class="tags">
-
-
-	<a class='category' href='/blog/categories/boca-a-boca/'>boca-a-boca</a>, <a class='category' href='/blog/categories/historia/'>história</a>, <a class='category' href='/blog/categories/marketing/'>marketing</a>
-
-
-</div>
-	
-		<div class="comments"><a href="/o-poder-de-uma-boa-historia-92938#disqus_thread">Comments</a></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/quer-lucrar-mais-e-dando-que-se-recebe">
-		
-			Quer lucrar mais? É dando que se recebe</a>
-	</h2>
-	<div class="entry-content">
-		<p><em>Veja apenas o <a href="#video">v&iacute;deo de 2 minutos</a> se preferir.</em></p>
+  <entry>
+    <title type="html"><![CDATA[Quer lucrar mais? É dando que se recebe]]></title>
+    <link href="http://blog.beonthe.net/quer-lucrar-mais-e-dando-que-se-recebe"/>
+    <updated>2013-01-07T00:00:00-02:00</updated>
+    <id>http://blog.beonthe.net/quer-lucrar-mais-e-dando-que-se-recebe</id>
+    <content type="html"><![CDATA[<p><em>Veja apenas o <a href="#video">v&iacute;deo de 2 minutos</a> se preferir.</em></p>
 <p>Quem trabalha no campo sabe que s&oacute; colhe aquilo que planta. Na vida e nos neg&oacute;cios &eacute; igual.</p>
 <p>Quer colher maiores lucros? Ent&atilde;o, pergunte-se: o que preciso plantar? Para melhorar as vendas e aumentar os lucros precisamos nos concentrar primeiro naquilo que podemos dar de melhor ao mundo para que ele nos retribua de acordo.</p>
 <p><strong>Como ser mais conhecido?</strong></p>
@@ -409,86 +205,7 @@
 <p>&nbsp;</p>
 <p><iframe allowfullscreen="true" src="https://www.youtube.com/embed/5PLfLtYx2yo?list=PLtymxq36gRKO6uo81BXcf6M9h9SsRr_rS" frameborder="0" height="315" width="560"></iframe></p>
 <p>&nbsp;</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-01-07T00:00:00-02:00" pubdate data-updated="true">Jan 7<span>th</span>, 2013</time></div>
-	<div class="tags">
-
-
-	<a class='category' href='/blog/categories/boca-a-boca/'>boca-a-boca</a>, <a class='category' href='/blog/categories/generosidade/'>generosidade</a>
-
-
-</div>
-	
-		<div class="comments"><a href="/quer-lucrar-mais-e-dando-que-se-recebe#disqus_thread">Comments</a></div>
-	
-</div>
-</article>
-
-<nav id="pagenavi">
-    
-    
-    <div class="center"><a href="/blog/archives">Blog Archives</a></div>
-</nav></div>
-	<footer id="footer" class="inner">Copyright &copy; 2013
-
-    Vinícius Teles
-
-</footer>
-	<script src="/javascripts/slash.js"></script>
-<script src="/javascripts/jquery.fancybox.pack.js"></script>
-<script type="text/javascript">
-(function($){
-	$('.fancybox').fancybox();
-})(jQuery);
-</script> <!-- Delete or comment this line to disable Fancybox -->
-
-
-<script type="text/javascript">
-      var disqus_shortname = 'beonthenet';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
-
-
-
-	<script type="text/javascript">
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-2309104-58']);
-		_gaq.push(['_trackPageview']);
-
-		(function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-	</script>
-
-
-
-</body>
-</html>
+</feed>
