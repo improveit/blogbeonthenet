@@ -92,7 +92,7 @@ Todo mundo tem um monte de coisas chatas para resolver. Nós também. Só que de
 
 Primeiro fizemos isso eliminando quase todas as nossas posses. Sim, porque aquilo que você possui, te possui. Quer um exemplo? Se você tem um carro, necessariamente tem que lidar com atividades tais como pagar IPVA todo ano, renovar o seguro, abastecer e levar ao mecânico. 
 
-Se você tem um telefone com conta, eventualmente tem que ligar para reclamar da conta que veio errada. Se você tem um ar condicionado, ele quebra e o verão está chegando, tem que gastar tempo concertando. E por aí vai. Tudo gasta algum tempo e demanda algum esforço.
+Se você tem um telefone com conta, eventualmente tem que ligar para reclamar da conta que veio errada. Se você tem um ar condicionado, ele quebra e o verão está chegando, tem que gastar tempo consertando. E por aí vai. Tudo gasta algum tempo e demanda algum esforço.
 
 Nós eliminamos tudo isso. Não temos casa, nem carro, nem aparelhos, nem contas fixas, nem relacionamento com grandes empresas em geral. Temos apenas o estritamente necessário para exercer nosso trabalho. Portanto, algumas mudas de roupa, nossos notebooks e as câmeras que a Pati usa para fotografar os casamentos.
 
