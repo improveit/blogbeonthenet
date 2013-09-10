@@ -1,7 +1,7 @@
 ---
 permalink: /o-que-esta-acontecendo-com-o-beonthenet
 layout: post
-title: 'O que está acontencedo com o [Be on the Net][be]?'
+title: 'O que está acontencedo com o Be on the Net?'
 published: true
 categories:
 - historia
@@ -26,7 +26,7 @@ Pensando nisso, nossa estratégia foi justamente investir o mínimo possível pa
 
 Felizmente nós acertamos. Escrevemos o menor software possível, que pudesse atender aos clientes e muita gente adotou o [Be on the Net][be]. Até muito mais do que esperávamos.
 
-Como fizemos para escrever o menor software possível? Automatizamos o que necessitava de atualização constante e deixamos que o resto fosse feito de forma manual. 
+Como fizemos para escrever o menor software possível? Automatizamos o que necessitava de atualização frequente e deixamos que o resto fosse feito de forma manual. 
 
 Fotos e vídeos são atualizados com frequência. Então, escrevemos o software necessário para que os próprios clientes façam a atualização, sem depender de nossa ajuda. Por outro lado, textos mudam pouco nos sites. Então, **não** implementamos software para que os clientes pudessem fazer essa atualização diretamente. Nós fazemos isso **manualmente** quando eles nos pedem.
 
@@ -86,7 +86,7 @@ Nesse ano de 2013, por exemplo, nós ficamos dois meses em Istambul, na Turquia,
 
 **Distrações**
 
-O mundo em que vivemos hoje é poluído por um grande número de distrações. Desde as digitais, como Facebook, Twitter, YouTube, WhatsApp, emails e afins, até um monde de chatices burocráticas.
+O mundo em que vivemos hoje é poluído por um grande número de distrações. Tem as digitais, como Facebook, Twitter, YouTube, WhatsApp, emails e a própria TV. E tem as físicas como trânsito, reuniões, eventos sociais e chatices burocráticas.
 
 Todo mundo tem um monte de coisas chatas para resolver. Nós também. Só que decidimos eliminá-las de forma implacável. Há três anos trabalhamos duro para remover ou resolver todo tipo de questão burocrática. 
 
@@ -110,7 +110,7 @@ Parece chato. Mas, não é. Acredite, pouca coisa gera tanta satisfação quanto
 
 **Pendências no [Be on the Net][be]**
 
-No meio dessas viagens, eu e a Pati percebemos uma coisa sobre nossos respectivos trabalhos. Precisávamos eliminar as pendências. Ou seja, entregar tudo que estava atrasado, organizar o que estivesse bagunçado e focar em criar uma estrutura adequada para o crescimento.
+No meio dessas viagens, eu e a Pati percebemos uma coisa sobre nossos respectivos trabalhos. Precisávamos eliminar as pendências. Ou seja, entregar tudo que estava atrasado, organizar o que estivesse bagunçado e focar em criar uma estrutura adequada para o crescimento. Tudo isso antes de iniciar novos projetos ou expandir o que já vínhamos fazendo.
 
 No caso do [Be on the Net][be], isso me levou a executar uma série de ações, começando pela base. O [Be on the Net][be] roda em um conjunto de servidores e eu trabalho com um notebook. Então, a minha primeira preocupação era em relação aos servidores e ao notebook. 
 
@@ -140,7 +140,7 @@ A boa notícia é que, com tudo o que já fizemos, estamos cada vez mais perto d
 
 Em teoria, eu e o Leandro poderíamos ter introduzido tais mudanças há mais tempo, se tivéssemos contado com a ajuda de outras pessoas. Mas, preferimos adiar qualquer contratação por duas razões. 
 
-É ilusão achar que as coisas vão andar mais rápido simplesmente porque tem mais gente trabalhando com você. As coisas andam mais rápido se estiverem organizadas e você conseguir trazer gente competente para trabalhar com você. Trazer mais gente em um cenário onde as coisas não estejam bem organizadas tende a tornar o problema ainda pior. 
+É ilusão achar que as coisas vão andar mais rápido simplesmente porque tem mais gente trabalhando com você. As coisas andam mais rápido se estiverem organizadas e você conseguir trazer gente competente para trabalhar com você. Trazer mais gente em um cenário onde as coisas não estejam bem organizadas, tende a tornar o problema ainda pior. 
 
 É preciso dedicar tempo e atenção às novas pessoas. O que reduz seu próprio tempo para organizar a casa. Fora o fato de que, no início, enquanto as pessoas não souberem como fazer as coisas, elas só irão contribuir para deixar tudo ainda mais bagunçado.
 
@@ -154,15 +154,11 @@ Há um mês estamos trabalhando com mais algumas pessoas talentosas que estão n
 
 Tudo o que fizemos ao longo dos últimos anos foi possível especialmente por conta da confiança que nossos clientes depositaram em nós. Temos uma imensa dívida de gratidão com eles e o compromisso de trabalhar para lhes prover um serviço cada vez melhor. 
 
-Tanto eu, quanto o Leandro somos fiés a esse compromisso. Nós não temos envolvimento com nenhum outro negócio e não temos planos de criar novos produtos tão cedo. Continuaremos investindo exclusivamente no [Be on the Net][be] por muito tempo. Até que ele esteja extremamente arrumado e alcance todo o seu potencial. Até lá, não nos envolveremos em nenhum outro tipo de trabalho. 
+Tanto eu, quanto o Leandro somos fiés a esse compromisso. Nós não temos envolvimento com nenhum outro negócio e não temos planos de criar novos produtos tão cedo. Continuaremos investindo exclusivamente no [Be on the Net][be] por muito tempo. Até que ele esteja bem arrumado e alcance todo o seu potencial. Até lá, não nos envolveremos em nenhum outro tipo de trabalho. 
 
 Em tempo, tecnicamente sou [conselheiro da HE:labs][c]. O que significa que, a cada três meses, participo de uma reunião de conselho que dura três horas. Aceitei essa atribuição porque trata-se de um tempo mínimo e porque essa empresa essencialmente preencheu a lacuna que deixamos quando paramos de fazer o trabalho de consultoria. Os donos são meus amigos pessoais e quero que a empresa dê certo. Essa é a única exceção, mas como demanda apenas o equivalente a um dia de trabalho por ano, não afeta em nada o meu trabalho no [Be on the Net][be].
 
 O [Be on the Net][be] está entrando em uma nova etapa. Eu, o Leandro e a Pati mudamos para melhor ao longo desses anos. Aprendemos muito e estamos investindo na evolução do [Be on the Net][be]. Estamos felizes com o que conseguimos fazer até o momento e animados por tudo o que está por vir. Não vamos discutir detalhes por enquanto, mas esteja certo de que estamos fazendo tudo ao nosso alcance para você curtir muito o que vem por aí. 
-
-Grande abraço,
-
-[Vinícius Teles][v]
 
 [be]: http://beonthe.net
 [v]:  http://viniciusteles.com.br
