@@ -1,7 +1,7 @@
 ---
 permalink: /o-que-esta-acontecendo-com-o-beonthenet
 layout: post
-title: 'O que está acontencedo com o Be on the Net?'
+title: 'O que está acontecendo com o Be on the Net?'
 published: true
 categories:
 - historia
