@@ -209,6 +209,12 @@ Quem trabalha no campo sabe que s&oacute; colhe aquilo que planta. Na vida e nos
   </footer>
 </article>
 
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
 </div>
 
 <aside class="sidebar">
@@ -216,6 +222,10 @@ Quem trabalha no campo sabe que s&oacute; colhe aquilo que planta. Na vida e nos
     <section>
   <h1>Artigos recentes</h1>
   <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/o-problema-e-a-concorrencia-ou-o-mercado">O problema é a concorrência? Ou o mercado?</a>
+      </li>
     
       <li class="post">
         <a href="/o-que-esta-acontecendo-com-o-beonthenet">O que está acontecendo com o Be on the Net?</a>
@@ -231,10 +241,6 @@ Quem trabalha no campo sabe que s&oacute; colhe aquilo que planta. Na vida e nos
     
       <li class="post">
         <a href="/quem-esta-disposto-a-fazer-o-dever-de-casa">Quem está disposto a fazer o dever de casa?</a>
-      </li>
-    
-      <li class="post">
-        <a href="/o-poder-de-uma-boa-historia-92938">O poder de uma boa história</a>
       </li>
     
   </ul>
@@ -272,7 +278,10 @@ Quem trabalha no campo sabe que s&oacute; colhe aquilo que planta. Na vida e nos
       var disqus_shortname = 'beonthenet';
       
         
-        var disqus_script = 'count.js';
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://blog.beonthe.net/quer-lucrar-mais-e-dando-que-se-recebe';
+        var disqus_url = 'http://blog.beonthe.net/quer-lucrar-mais-e-dando-que-se-recebe';
+        var disqus_script = 'embed.js';
       
     (function () {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
