@@ -64,7 +64,7 @@ E quando a situação aperta, é comum escutarmos justificativas como essas:
 
 Ouvi essas frases muitas vezes e, a cada vez, tenho que respirar fundo e lamentar. Porque se alguém acredita nisso, ainda não entendeu onde está o problema. Então, vai ter muita dificuldade para resolvê-lo.
 
-Se você acha que essas frases têm alguma coisa a ver com a sua dificuldade de fechar negócio, você está enganado. Para achar onde está o problema, não é preciso ir longe. Basta procurar um espelho. Diante dele você encontrará as causas. Não são outros, o problema é com você mesmo. 
+Se você acha que essas frases têm alguma coisa a ver com a sua dificuldade de fechar negócio, você está enganado. Para achar onde está o problema, não é preciso ir longe. Basta procurar um espelho. Diante dele você encontrará as causas. Não são os outros, o problema é com você mesmo. 
 
 **Tem muita concorrência**
 
