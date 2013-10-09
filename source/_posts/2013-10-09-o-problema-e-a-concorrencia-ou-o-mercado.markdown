@@ -3,7 +3,7 @@ permalink: /o-problema-e-a-concorrencia-ou-o-mercado
 layout: post
 title: "O problema é a concorrência? Ou o mercado?"
 date: 2013-10-09 13:50
-comments: false
+comments: true
 published: true
 categories: 
 - concorrência
@@ -15,13 +15,16 @@ categories:
 - atendimento
 - rio de janeiro
 ---
+![Grand Bazaar](/images/grand-bazaar.jpg "Grand Bazaar")
+[Foto](http://www.flickr.com/photos/jlascar/8291185494/sizes/z/in/photostream/) de [Jorge Lascar](http://www.flickr.com/photos/jlascar/) disponibilizada como [Creative Commons](http://creativecommons.org/licenses/by/3.0/br/).
+
 Você é fotógrafo ou fotógrafa e está com dificuldade de fechar negócios? Está preocupado com a concorrência e o mercado em baixa? Então, esse artigo é pra você. Aliás, é também para qualquer profissional que acredite que o problema é a concorrência, ou o mercado ruim.
 
 **Seja cliente por um minuto**
 
 Vou contar uma história real que aconteceu com uma amiga há dois anos. Ela é brasileira, mas mora no Japão há mais de uma década e estava preparando seu casamento com um japonês.
 
-Decidiu fazer o casamento tanto em Tóquio, quanto no Rio de Janeiro. Logo no início dos preparativos, enviou email para 10 fotógrafos de casamento do Rio. Poucos minutos depois recebeu a resposta carinhosa de uma fotógrafa. Embora a mesma não pudesse fotografar seu casamento, porque estaria fora do Rio, se colocou a disposição para ajudar tanto quanto possível. Inclusive daí surgiu uma bela amizade.
+Decidiu fazer o casamento tanto em Tóquio, quanto no Rio de Janeiro. Logo no início dos preparativos, enviou email para 10 fotógrafos de casamento do Rio. Poucos minutos depois recebeu a resposta carinhosa de uma fotógrafa. Embora a mesma não pudesse fotografar seu casamento, porque estaria fora do Rio, se colocou a disposição para ajudar tanto quanto possível. Inclusive daí surgiu uma bela amizade. Um [onigiri](http://pt.wikipedia.org/wiki/Onigiri) para quem descobrir o nome dessa fotógrafa. ;-)
 
 Dos outros 9 fotógrafos não recebeu resposta nenhuma. Até que, um mês depois, um deles finalmente escreveu para dizer que também não tinha disponibilidade. O restante, nunca chegou a responder.
 
@@ -33,17 +36,17 @@ Por fim, minha amiga desistiu do casamento no Rio e casou-se apenas em Tóquio. 
 
 A história acima não é isolada. Converse com qualquer pessoa que tenha se casado nos últimos anos, especialmente no Rio, e você provavelmente escutará relatos semelhantes de atendimento ruim. 
 
-Não é um problema exclusivo de fotógrafos de casamento, ou de profissionais em geral ligados a casamentos. No caso do Rio de Janeiro, em particular, é um problema generalizado. 
+Não é um problema exclusivo de fotógrafos de casamento, ou de profissionais ligados a casamentos. No caso do Rio, é um problema generalizado. 
 
-Tive a oportunidade de visitar centenas de cidades ao redor do mundo e posso garantir que, na área metropolitana do Rio de Janeiro, os serviços são consistentemente ruins quase sempre. Em quase tudo. Não importa se é caro ou barato. Tipicamente é muito ruim. 
+Tive a oportunidade de visitar centenas de cidades ao redor do mundo e posso garantir que, na área metropolitana do Rio de Janeiro, os serviços são consistentemente ruins, quase sempre, em quase tudo. Não importa se é caro ou barato. Tipicamente é ruim. 
 
 E a relação custo-benefício tende a ser a pior do mundo também, com pouquíssimas exceções. Sim, porque tenho que admitir que comprar Havaianas no Rio é mais barato que em outras partes do mundo. Mas, não vai muito além disso. Normalmente se paga caro e se obtém algo precário.
 
-Apesar dos serviços ruins, os profissionais de casamento venderam muito nos últimos anos. Tanto bons, quando não tão bons, fecharam negócios. Mas, por que?
+Apesar dos serviços não necessariamente bons, os profissionais de casamento venderam muito nos últimos anos. Tanto bons, quando não tão bons, fecharam negócios. Mas, por que?
 
 Porque havia muita demanda. O mercado consumidor é grande e, como a economia ia bem, as pessoas tinham mais dinheiro e gastavam. Quando o mercado está aquecido, não é preciso fazer muito esforço para vender e nem é preciso ter um serviço primoroso. 
 
-O mercado ficou aquecido durante anos. Tem muita gente que começou sua carreira, no segmento de eventos, durante essa fase esplendorosa da economia brasileira. É ótimo trabalhar em um mercado assim. Ele é mais fácil e dá pra ganhar uma boa grana. Mas, tudo tem seu preço.
+O mercado ficou aquecido durante anos. Tem muita gente que começou sua carreira no segmento de eventos durante essa fase esplendorosa da economia brasileira. É ótimo trabalhar em um mercado assim. Ele é mais fácil e dá pra ganhar uma boa grana. Mas, tudo tem seu preço.
 
 O problema de trabalhar em um mercado assim é que ele engana. É fácil acreditar que você fez a sua parte brilhantemente e por isso está se dando tão bem, quando na verdade, você estava apenas sendo beneficiado por um bom momento. E se você acredita que está mandando bem, quando não está, a conta vai chegar quando o mercado estiver em baixa.
 
@@ -67,7 +70,7 @@ Se você acha que essas frases têm alguma coisa a ver com a sua dificuldade de 
 
 Muita concorrência não é um problema em si. Você já foi a um shopping center, né? Lá tem muita concorrência. É uma aglomeração de lojas, uma coladinha na outra, muitas operando no mesmo segmento, concorrendo entre si. 
 
-Já foi na Feira de São Cristóvão? Tem muita concorrência. Já foi no Grand Bazaar, em Istambul? Se você for, dificilmente encontrará no mundo um lugar com concorrência maior. E você acha que os comerciantes de lá estão tristes por causa disso? Não. 
+Já foi na Feira de São Cristóvão? Tem muita concorrência. Já foi no [Grand Bazaar](http://pt.wikipedia.org/wiki/Grande_Bazar), em Istambul? Se você for, dificilmente encontrará no mundo um lugar com concorrência maior. E você acha que os comerciantes de lá estão tristes por causa disso? Não. 
 
 Porque ter muita concorrência não é o problema. Inclusive diria que é até muito útil. Isso explico mais adiante. 
 
@@ -93,42 +96,43 @@ Sim, sei que essa mensagem é dura e você tem todas as razões para achar que n
 
 **Para entender isso, precisamos nos perguntar: o que faz alguém te escolher? Vejamos.**
 
-É seu preço? 
-É a qualidade do seu trabalho? 
-É a simpatia do seu atendimento? 
-É sua agilidade?
-É sua capacidade de comunicação? 
-É o número de câmeras fotográficas que você tem? 
-São seus diplomas? 
-São seus amigos? 
-São seus assistentes?
-É o círculo social que você frequenta? 
-É sua boa relação com cerimonialistas?
-É sua boa relação com outros profissionais?
-É a dedicação que você demonstra no dia do casamento? 
-É a roupa que você veste? 
-É seu tom de voz? 
-Ou seria seu charme irresistível? 
-Talvez seu sorriso? 
-Seria sua capacidade de escutar? 
-Sua humildade, talvez? 
-Seria seu perfeccionismo? 
-Ou o seu amor incontrolável pela fotografia? 
-Poderia ser sua alegria em servir ao próximo? 
-Será que foi como você "empacotou" seu trabalho? 
-Ou foi aquele desconto bacana? 
-Quem sabe teria sido a forma como você flexibilizou o pagamento? 
-Será que é por que você fica até o final da festa sem cobrar hora extra? 
-Ou foi por que a pessoa conseguiu conhecer seu trabalho facilmente no site? 
-Foi porque o cliente teve acesso a muitas fotos no site e se sentiu mais confortável?
-Foi por que você respondeu o email rápido? 
-Ou por que você ligou assim que recebeu a mensagem e logo marcou uma reunião? 
-Será que foi por que você foi pontual no dia da reunião? 
-Ou foi o agradinho que você trouxe no making of?  Não, talvez tenha sido aquele agradinho que você deu no final do trabalho inteiro. 
-Teria sido a forma como você retocou as fotos do álbum, deixando cada uma perfeita, mas como se não tivesse sido editada? 
-Ou foi essa reputação de sempre cumprir o prazo? 
-Não, talvez seja sua alegria no dia do casamento e sua capacidade de divertir quem é fotografado. Sem falar na sua disposição, que mesmo no dia seguinte, já amanhecendo, parece inabalada. 
-Seria o perfeito acabamento do seu álbum? Ou o design elegante dele? 
+É seu preço?   
+É a qualidade do seu trabalho?  
+É a simpatia do seu atendimento?   
+É sua agilidade?  
+É sua capacidade de comunicação?   
+É o número de câmeras fotográficas que você tem?   
+É o tipo de câmera que você usa?  
+São seus diplomas?  
+São seus amigos?  
+São seus assistentes?  
+É o círculo social que você frequenta?   
+É sua boa relação com cerimonialistas?  
+É sua boa relação com outros profissionais?  
+É a dedicação que você demonstra no dia do casamento?   
+É a roupa que você veste?   
+É seu tom de voz?   
+Ou seria seu charme irresistível?  
+Talvez seu sorriso?   
+Seria sua capacidade de escutar?  
+Sua humildade, talvez?  
+Seria seu perfeccionismo?   
+Ou o seu amor incontrolável pela fotografia?    
+Poderia ser sua alegria em servir ao próximo?  
+Será que foi como você "empacotou" seu trabalho?   
+Ou foi aquele desconto bacana?  
+Quem sabe teria sido a forma como você flexibilizou o pagamento?   
+Será que é por que você fica até o final da festa sem cobrar hora extra?   
+Ou foi por que a pessoa conseguiu conhecer seu trabalho facilmente no site?   
+Foi porque o cliente teve acesso a muitas fotos no site e se sentiu mais confortável?   
+Foi por que você respondeu o email rápido?   
+Ou por que você ligou assim que recebeu a mensagem e logo marcou uma reunião?   
+Será que foi por que você foi pontual no dia da reunião?   
+Ou foi o agradinho que você trouxe no making of?  Não, talvez tenha sido aquele agradinho que você deu no final do trabalho inteiro.  
+Teria sido a forma como você retocou as fotos do álbum, deixando cada uma perfeita, mas como se não tivesse sido editada?  
+Ou foi essa reputação de sempre cumprir o prazo?  
+Não, talvez seja sua alegria no dia do casamento e sua capacidade de divertir quem é fotografado. Sem falar na sua disposição, que mesmo no dia seguinte, já amanhecendo, parece inabalada.  
+Seria o perfeito acabamento do seu álbum? Ou o design elegante dele?  
 
 Enfim, qual dessas coisas faz alguém te contratar? Te garanto que não é nenhuma delas em separado. São todas elas juntas. 
 
@@ -204,4 +208,4 @@ Tempo é prioridade. É organização. É fazer escolhas.
 
 Se você quer mandar muito bem em seu negócio, escolha dedicar seu tempo a aprender como conduzir bem um negócio. Entenda que nem o mercado, nem a concorrência são a causa de suas dificuldades. Você é quem causa dificuldades ou sucessos em seu negócio. Assuma sua responsabilidade e pare de culpar os outros.
 
-Seu sucesso depende de como você escolhe usar as 24h que recebe a cada dia. Tic tac tic tac... Escolha sabiamente. Estude, faça seu dever de casa e se aperfeiço-e. Tenha paciência e saiba que os resultados virão.
+Seu sucesso depende de como você escolhe usar as 24h que recebe a cada dia. Tic tac tic tac... Escolha sabiamente. Estude, faça seu dever de casa e se aperfeiçoe. Tenha paciência e saiba que os resultados virão.
