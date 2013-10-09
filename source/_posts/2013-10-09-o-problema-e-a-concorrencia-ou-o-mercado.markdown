@@ -160,7 +160,7 @@ Não se trata de copiar, mas sim de aprender com cada concorrente. O que ele faz
 
 O mesmo se aplica ao mercado. Ele é seu aliado quando está aquecido, porque te ajuda a vender mais. Porém, é um aliado ainda melhor quando está desaquecido, porque te força a aprender. Ele te faz buscar formas de fazer melhor o seu trabalho. Ele exige que você se aperfeiçoe. E isso é excelente para o futuro do seu negócio. Além disso, ele força os menos preparados a sair do negócio.
 
-O mercado aquecido te ajuda no curto prazo, mas te torna preguiçoso, porque não demanda muito esfoço. Por sua vez, o mercado desaquecido te ajuda a melhorar no médio e longo prazo, porque exige que você se aperfeiçoe. Faz com que você se prepare e plante para colher mais tarde.
+O mercado aquecido te ajuda no curto prazo, mas te torna preguiçoso, porque não demanda muito esforço. Por sua vez, o mercado desaquecido te ajuda a melhorar no médio e longo prazo, porque exige que você se aperfeiçoe. Faz com que você se prepare e plante para colher mais tarde.
 
 A concorrência, especialmente na região metropolitana do Rio, é a melhor amiga que você poderia ter, porque em qualquer segmento, a maioria absoluta dos serviços é simplesmente ruim. Se você é bom isoladamente, é melhor ainda quando o cliente pode comparar com concorrentes menos preparados. Então, é muito mais fácil você se destacar, desde que você saiba plantar corretamente. 
 
@@ -192,7 +192,7 @@ Se você não perde seu tempo com a novela, o futebol e o Facebook, por exemplo,
 
 Tempo é prioridade. É escolha. Todos os dias, todas as pessoas, em todos os lugares do mundo, recebem a mesma dádiva, independente de classe social, credo, gênero ou time de futebol: vinte e quatro horas para usar como bem entender. 
 
-O que você escolhe fazer nessas 24h é o que determina seu sucesso no final do dia. A escolha é inteiramente sua e é efetivamente uma escoha. É importante compreender isso. É uma escolha.
+O que você escolhe fazer nessas 24h é o que determina seu sucesso no final do dia. A escolha é inteiramente sua e é efetivamente uma escolha. É importante compreender isso. É uma escolha.
 
 Se você escolhe jogar seu tempo no lixo se dedicando a assuntos que não contribuem em nada para avançar o seu negócio, essa escolha é sua, inteiramente sua. E as consequência dela também são de sua inteira responsabilidade.
 
