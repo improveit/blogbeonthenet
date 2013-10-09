@@ -124,7 +124,7 @@ Ou foi aquele desconto bacana?
 Quem sabe teria sido a forma como você flexibilizou o pagamento?   
 Será que é por que você fica até o final da festa sem cobrar hora extra?   
 Ou foi por que a pessoa conseguiu conhecer seu trabalho facilmente no site?   
-Foi porque o cliente teve acesso a muitas fotos no site e se sentiu mais confortável?   
+Foi por que o cliente teve acesso a muitas fotos no site e se sentiu mais confortável?   
 Foi por que você respondeu o email rápido?   
 Ou por que você ligou assim que recebeu a mensagem e logo marcou uma reunião?   
 Será que foi por que você foi pontual no dia da reunião?   
@@ -182,7 +182,7 @@ O mais provável é que você não tenha nascido sabendo tudo o que precisa para
 
 Normalmente a colheita não é imediata. Tempo também é pré-requisito. Portanto, especialmente se você é um novato, está no mercado há pouco tempo e faz bem o seu dever de casa, entenda que mesmo fazendo tudo certo, leva tempo para as coisas acontecerem. Assim como uma semente plantada hoje precisa de um tempo para germinar e se transformar em uma árvore.
 
-Mas, dedicando-se a aprender e fazendo as mudanças necessárias, compatíveis com seu aprendizado, você vai se destacar. Até porque, você vai ser uma das poucas pessoas fazendo isso. Especialmente no Rio de Janeiro, onde a preguiça impera e pouca gente parece ter disposição para fazer o dever de casa. Sonhar com a praiana é sempre mais atrativo. :)
+Mas, dedicando-se a aprender e fazendo as mudanças necessárias, compatíveis com seu aprendizado, você vai se destacar. Até porque, você vai ser uma das poucas pessoas fazendo isso. Especialmente no Rio de Janeiro, onde a preguiça impera e pouca gente parece ter disposição para fazer o dever de casa. Sonhar com a praiana é sempre mais atrativo. Aliás, se você chegou a esse ponto do texto, já está na companhia de poucos. A preguiça já impediu que a maioria passasse do segundo parágrafo. :)
 
 **Mas, eu não tenho tempo**
 
@@ -196,7 +196,7 @@ O que você escolhe fazer nessas 24h é o que determina seu sucesso no final do 
 
 Se você escolhe jogar seu tempo no lixo se dedicando a assuntos que não contribuem em nada para avançar o seu negócio, essa escolha é sua, inteiramente sua. E as consequência dela também são de sua inteira responsabilidade.
 
-Quer ter mais tempo para estudar e se aprimorar em seu negócio. Simples, comece observando o seu dia e se perguntando: o que eu posso deixar de fazer? Essa é a primeira coisa. Desligar a TV e largar o Facebook são apenas algumas ações óbvias. Porém, há muitas outras.
+Quer ter mais tempo para estudar e se aprimorar em seu negócio? Simples, comece observando o seu dia e se perguntando: o que eu posso deixar de fazer? Essa é a primeira coisa. Desligar a TV e largar o Facebook são apenas algumas ações óbvias. Porém, há muitas outras.
 
 Você realmente precisa dizer sim a todos os eventos para os quais te convidam? Todos eles contribuem para você avançar em seu negócio? Não estou dizendo que é ruim ir a festas e encontrar os amigos. Estou dizendo que é preciso fazer escolhas, se você realmente quer que seu negócio avance, não dá para fazer tudo. É preciso focar no que faz diferença.
 
