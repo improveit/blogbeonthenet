@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: twitter | Be on the Net]]></title>
+  <link href="http://blog.beonthe.net/blog/categories/twitter/atom.xml" rel="self"/>
+  <link href="http://blog.beonthe.net/"/>
+  <updated>2013-11-09T12:03:22-02:00</updated>
+  <id>http://blog.beonthe.net/</id>
+  <author>
+    <name><![CDATA[Vinícius Teles]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Integração com redes sociais]]></title>
+    <link href="http://blog.beonthe.net/integracao-com-redes-sociais"/>
+    <updated>2013-11-08T23:11:00-02:00</updated>
+    <id>http://blog.beonthe.net/integracao-com-redes-sociais</id>
+    <content type="html"><![CDATA[<p>Boas notícias! Agora os sites do <a href="http://beonthe.net" title="Saiba como criar um site profissional para fotógrafo">Be on the Net</a> estão integrados com as redes sociais. Já era hora, né? ;-)</p>
+
+<p>Se você têm um site no <a href="http://beonthe.net" title="Saiba como criar um site profissional para fotógrafo">Be on the Net</a>, seus visitantes terão acesso a suas contas em diferentes redes sociais de forma mais direta. Além disso, poderão compartilhar conteúdo do seu site no <strong>Facebook</strong>, <strong>Twitter</strong>, <strong>Google Plus</strong> e <strong>Pinterest</strong> com mais facilidade.</p>
+
+<p>Para entender as mudanças, vamos usar o exemplo do site do nosso querido amigo e cliente, <a href="http://elgrego.net" title="Fotógrafo de casamento no Rio de Janeiro">El Grego</a>.</p>
+
+<p><a href="http://elgrego.net">
+<img src="http://blog.beonthe.net/images/elgrego/site-el-grego.jpg" width="640" height="490">
+</a></p>
+
+<h2>Barra de mídias sociais</h2>
+
+<p>No topo do site, assim como na parte inferior, há uma nova barra de mídias sociais, como pode ser visto na imagem abaixo:</p>
+
+<p><img src="http://blog.beonthe.net/images/elgrego/barra-de-midias-sociais.jpg" width="640" height="66"></p>
+
+<p>Essa barra está dividida em duas partes. Elas têm propósitos distintos. Então, vamos analisar cada uma separadamente.</p>
+
+<p>Comecemos pelo lado esquerdo, com os botões de compartilhamento.</p>
+
+<p><img src="http://blog.beonthe.net/images/elgrego/botoes-de-compartilhamento.jpg" width="640" height="66"></p>
+
+<p>Esses botões servem para que o visitante possa curtir o site no <strong>Facebook</strong>, ou publicá-lo no <strong>Twitter</strong> e no <strong>Google Plus</strong>. Agora, quando o visitante gosta do seu site, ele pode espalhar para os amigos mais facilmente. E o site fica mais conhecido através do “boca-a-boca” nas redes sociais.</p>
+
+<p>Já o lado direito dessa barra tem outro propósito.</p>
+
+<p><img src="http://blog.beonthe.net/images/elgrego/outras-presencas.jpg" width="640" height="68"></p>
+
+<p>O nosso amigo <a href="http://elgrego.net" title="Fotógrafo de casamento no Rio de Janeiro">El Grego</a>, por exemplo, tem várias presenças na internet. Além do próprio <a href="http://elgrego.net" title="Fotógrafo de casamento no Rio de Janeiro">site</a>, que é sua vitrine, também está no presente <a href="https://www.facebook.com/pages/El-Grego-Wedding-photojournalist-photography/206689032731161" title="Página do Facebook do El Grego">Facebook</a>, <a href="https://twitter.com/el__grego" title="Tweeter do El Grego">Twitter</a> e <a href="http://instagram.com/EL__GREGO" title="Instagram do El Grego">Instagram</a>. E tem também um <a href="http://www.blogelgrego.net" title="Blog do El Grego no Wordpress">blog no Wordpress</a>.</p>
+
+<p>Agora, quem visita o <a href="http://elgrego.net" title="Fotógrafo de casamento no Rio de Janeiro">site dele</a> tem acesso mais fácil a sua presença nesses outros pontos da internet. Basta clicar no ícone correspondente. Por exemplo, quer conhecer a <a href="https://www.facebook.com/pages/El-Grego-Wedding-photojournalist-photography/206689032731161" title="Página do Facebook do El Grego">página do El Grego no Facebook</a>? Simples, basta clicar no <strong>ícone do Facebook</strong>, no lado direito da barra de mídias sociais.</p>
+
+<p>Esta barra está presente em todas as páginas do site, tanto no cabeçalho, quanto no rodapé. Portanto, a qualquer momento, o visitante do <a href="http://elgrego.net" title="Fotógrafo de casamento no Rio de Janeiro">El Grego</a> pode espalhar o site dele para os amigos e pode ter acesso às demais presenças dele na internet.</p>
+
+<h2>Botões de compartilhamento da foto</h2>
+
+<p>Como bem sabemos, as pessoas adoram fotos. E gostam de compartilhar suas fotos preferidas com os amigos, seja curtindo fotos no <strong>Facebook</strong>, ou publicando no <strong>Twitter</strong>, <strong>Google Plus</strong> ou <strong>Pinterest</strong>.</p>
+
+<p>Agora os visitantes dos sites do <a href="http://beonthe.net" title="Saiba como criar um site profissional para fotógrafo">Be on the Net</a> podem compartilhar suas fotos preferidas com muita facilidade. Usando ainda o exemplo do <a href="http://elgrego.net" title="Fotógrafo de casamento no Rio de Janeiro">El Grego</a>, vejamos como a foto aparece.</p>
+
+<p><a href="http://elgrego.net/fotos_casamento_rio_de_janeiro/5882333053238895073/3/8/5882335126801418770/p#subnavigation">
+<img src="http://blog.beonthe.net/images/elgrego/botoes-na-foto-grande.jpg" width="640" height="395">
+</a></p>
+
+<p>Ao lado da foto, o visitante tem acesso fácil a todos os botões de compartilhamento das principais redes sociais. Mais uma facilidade para que façam seu “boca-a-boca” na internet.</p>
+
+<p>Esses botões não estão do lado direito da foto por acaso. É de propósito.</p>
+
+<p>Quando as pessoas estão navegando pelas fotos, elas clicam na setinha para a direita para ver a próxima foto. O tempo todo elas mantêm o ponteiro do mouse sobre a setinha da direita. Daí a importância de posicionar os botões de compartilhamento próximo a ela.</p>
+
+<p><a href="http://elgrego.net/fotos_casamento_rio_de_janeiro/5882333053238895073/3/8/5882335126801418770/p#subnavigation">
+<img src="http://blog.beonthe.net/images/elgrego/proximidade.jpg" width="640" height="425">
+</a></p>
+
+<p>Se o botão do mouse está próximo ao botão de compartilhamento, o “esforço” necessário para compartilhar a foto é ainda menor. Como o <strong>Facebook</strong> é a rede social mais relevante da atualidade, o botão de <strong>Curtir</strong> é justamente o que fica mais próximo da setinha.</p>
+
+<p>Se você é um feliz proprietário de um site no <a href="http://beonthe.net" title="Saiba como criar um site profissional para fotógrafo">Be on the Net</a>, parabéns! Seu site acaba de ficar melhor.</p>
+
+<p>Continue fazendo um excelente trabalho e será recompensado. Seus visitantes vão compartilhar seu site e suas fotos nas redes sociais. Agora, com muito mais facilidade. ;-)</p>
+]]></content>
+  </entry>
+  
+</feed>
