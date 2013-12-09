@@ -1,0 +1,15 @@
+---
+permalink: /be-on-the-net-2-0
+layout: post
+title: Be on the Net 2.0
+date: 2013-12-09 14:15
+comments: true
+categories: 
+- responsive design
+- retina
+- mobile design
+- dispositivos móveis
+- layout
+- layout personalizado
+- design
+---
