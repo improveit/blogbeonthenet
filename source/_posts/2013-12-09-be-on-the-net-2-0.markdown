@@ -12,6 +12,7 @@ categories:
 - layout
 - layout personalizado
 - design
+- be on the net 2.0
 ---
 Dezembro é o mês de aniversário do Be on the Net. Na véspera do Natal, no próximo dia 24 de dezembro, o Be on the Net vai completar cinco anos de vida. 
 
@@ -27,19 +28,19 @@ Isso é bom, mas podemos fazer melhor. O ideal é que o site se apresente de man
 
 Para entender o que isso significa, peguemos o exemplo do site abaixo, do fotógrafo [Marcos Pinheiro][mp]. Ele apresenta três colunas de fotos quando mostrado na tela do computador:
 
-<a href="http://marcospinheiro.fot.br/ambientes/5766559382000875809/1/p">
+<a href="http://marcospinheiro.fot.br/ambientes/5766563933810515953/1/p">
 <img src="/images/marcospinheiro/colunas-desktop.jpg" width="640" height="505">
 </a>
 
 E no iPhone, por exemplo, ele é mostrado assim:
 
-<a href="http://marcospinheiro.fot.br/ambientes/5766559382000875809/1/p">
+<a href="http://marcospinheiro.fot.br/ambientes/5766563933810515953/1/p">
 <img src="/images/marcospinheiro/colunas-iphone.jpg" width="320" height="568">
 </a>
 
 Como o espaço horizontal é muito menor que o da tela de um computador, seria melhor que essa lista fosse apresentada em apenas uma coluna, ao invés de três. Seria uma listagem mais ou menos assim:
 
-<a href="http://marcospinheiro.fot.br/ambientes/5766559382000875809/1/p">
+<a href="http://marcospinheiro.fot.br/ambientes/5766563933810515953/1/p">
 <img src="/images/marcospinheiro/uma-coluna.jpg" width="320" height="649">
 </a>
 
@@ -57,7 +58,7 @@ As imagens que são usadas atualmente nos sites do Be on the Net, e na maioria d
 
 Até mesmo as fotos que aparecem nos sites do Be on the Net podem ser mostradas com maior nitidez se houver uma preparação específica para esse tipo de tela.
 
-**Layouts personalizados**
+##Layouts personalizados
 
 Fazer um layout personalizado para o Be on the Net é relativamente complicado e custoso, infelizmente. Isso tem a ver com as restrições tecnológicas da época em que o Be on the Net foi criado e a forma como estruturamos os layouts.
 
