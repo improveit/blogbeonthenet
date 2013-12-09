@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: design | Be on the Net]]></title>
+  <link href="http://blog.beonthe.net/blog/categories/design/atom.xml" rel="self"/>
+  <link href="http://blog.beonthe.net/"/>
+  <updated>2013-12-09T14:45:39-02:00</updated>
+  <id>http://blog.beonthe.net/</id>
+  <author>
+    <name><![CDATA[Vinícius Teles]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Be on the Net 2.0]]></title>
+    <link href="http://blog.beonthe.net/be-on-the-net-2-0"/>
+    <updated>2013-12-09T14:15:00-02:00</updated>
+    <id>http://blog.beonthe.net/be-on-the-net-2-0</id>
+    <content type="html"><![CDATA[<p>Dezembro é o mês de aniversário do Be on the Net. Na véspera do Natal, no próximo dia 24 de dezembro, o Be on the Net vai completar cinco anos de vida.</p>
+
+<p>Pra ser sincero, quando criamos o Be on the Net, em 2008, nem sabíamos se vingaria. E acho que não imaginávamos que poderia durar todo esse tempo. Mas, que bom que deu certo. Agora a questão é: o que fazer para que dê ainda mais certo durante os próximos cinco anos?</p>
+
+<h2>Dispositivos móveis</h2>
+
+<p>A principal mudança nesses últimos cinco anos foi o aumento do uso dos dispositivos móveis. Cada vez mais gente acessa a internet através de um smart phone ou um tablet. A tal ponto que, a partir do próximo ano, 2014, mais da metade dos acessos aos sites será através desses dispositivos.</p>
+
+<p>Os sites do Be on the Net sempre funcionaram em qualquer dispositivo móvel, desde o início. Um site do Be on the Net, quando acessado através de um iPhone, por exemplo, é apresentado de forma idêntica ao que a pessoa veria se estivesse acessando de um computador.</p>
+
+<p>Isso é bom, mas podemos fazer melhor. O ideal é que o site se apresente de maneira ligeiramente diferente, que torne mais cômodo seu uso, especialmente quando o dispositivo tiver uma tela pequena, como é o caso de um smart phone.</p>
+
+<p>Para entender o que isso significa, peguemos o exemplo do site abaixo, do fotógrafo <a href="http://marcospinheiro.fot.br">Marcos Pinheiro</a>. Ele apresenta três colunas de fotos quando mostrado na tela do computador:</p>
+
+<p><a href="http://marcospinheiro.fot.br/ambientes/5766563933810515953/1/p">
+<img src="http://blog.beonthe.net/images/marcospinheiro/colunas-desktop.jpg" width="640" height="505">
+</a></p>
+
+<p>E no iPhone, por exemplo, ele é mostrado assim:</p>
+
+<p><a href="http://marcospinheiro.fot.br/ambientes/5766563933810515953/1/p">
+<img src="http://blog.beonthe.net/images/marcospinheiro/colunas-iphone.jpg" width="320" height="568">
+</a></p>
+
+<p>Como o espaço horizontal é muito menor que o da tela de um computador, seria melhor que essa lista fosse apresentada em apenas uma coluna, ao invés de três. Seria uma listagem mais ou menos assim:</p>
+
+<p><a href="http://marcospinheiro.fot.br/ambientes/5766563933810515953/1/p">
+<img src="http://blog.beonthe.net/images/marcospinheiro/uma-coluna.jpg" width="320" height="649">
+</a></p>
+
+<p>Se o site aparecesse assim nos smart phones, a experiência de uso seria melhor que a atual. E essa é apenas uma das muitas mudanças que podem ser feitas para melhorar a vida de quem acessa através de um dispositivo móvel.</p>
+
+<p>Quando um site se adapta ao dispositivo em que está sendo apresentado, dizemos que ele adota um <em>responsive design</em>.</p>
+
+<h2>Retina</h2>
+
+<p>Outra coisa que mudou ao longo dos últimos anos foi a introdução de dispositivos com tela retina. É um tipo de tela onde um texto, por exemplo, aparece de forma tão perfeita quanto se estivesse impresso no papel.</p>
+
+<p>Esse tipo de tela, que está presente no iPhone, desde o modelo 4S, assim como em diversos modelos de iPad, MacBook Pro e outros dispositivos, logo será a norma do mercado. Isso é ótimo, mas demanda mudanças nos sites.</p>
+
+<p>As imagens que são usadas atualmente nos sites do Be on the Net, e na maioria dos sites da web, não foram projetadas para telas retina. Então, se você acessa um site do Be on the Net em um dispositivo que tem tela retina, você verá tudo normalmente, mas as imagens poderiam aparecer com maior nitidez se tivessem sido projetadas para uma tela retina e se o site estivesse preparado para telas retina.</p>
+
+<p>Até mesmo as fotos que aparecem nos sites do Be on the Net podem ser mostradas com maior nitidez se houver uma preparação específica para esse tipo de tela.</p>
+
+<h2>Layouts personalizados</h2>
+
+<p>Fazer um layout personalizado para o Be on the Net é relativamente complicado e custoso, infelizmente. Isso tem a ver com as restrições tecnológicas da época em que o Be on the Net foi criado e a forma como estruturamos os layouts.</p>
+
+<p>Quando um cliente do Be on the Net quer adotar um layout personalizado, ele precisa contratar um designer para bolar o layout em uma ferramenta como o Photoshop. Depois é preciso transformar esse layout em código CSS, o que às vezes precisa ser feito por outro designer, mais especializado nessa parte.</p>
+
+<p>Isso torna o processo complicado e custoso. Está longe de ser o ideal, o que é um problema sério, visto que muita gente gostaria de adotar um layout que fosse mais específico para suas necessidades.</p>
+
+<h2>Recomeço</h2>
+
+<p>Esses três assuntos: <strong>responsive design</strong>, <strong>telas retina</strong> e <strong>layouts personalizados</strong>, são alguns dos pontos mais críticos que precisam melhorar no Be on the Net para que ele continue a ser um produto usado e apreciado por vários donos de sites.</p>
+
+<p>Nós refletimos sobre qual seria a estratégia mais apropriada para introduzir essas mudanças. O que seria melhor? Reformar o Be on the Net que existe hoje? Ou criar um novo, praticamente do zero? O que é mais rápido e tem mais chances de dar certo?</p>
+
+<p>Concluímos que seria melhor começar do zero. O Be on the Net está baseado em um código bastante enxuto e sólido. Mas, já é um código defasado. Na prática, daria mais trabalho alterá-lo e teríamos mais riscos de alguma coisa quebrar no meio do caminho.</p>
+
+<p>Então, preferimos começar quase do zero. Digo “quase”, porque na verdade já temos o Be on the Net atual que serve de referência e guia para o que tem que ser feito. Boa parte do que existe atualmente continuará a ser útil, embora possa ser aprimorado.</p>
+
+<p>O certo é que, adotando essa estratégia, as novidades poderão ser introduzidas com mais facilidade. E não corremos o risco de quebrar o que já vinha funcionando. Por isso decidimos criar o <strong>Be on the Net 2.0</strong>.</p>
+
+<p>Quando estiver pronto, os clientes do Be on the Net poderão migrar seus sites para o <strong>Be on the Net 2.0</strong>, que contará com um <strong>novo conjunto de layouts prontos</strong>, <strong>maior facilidade para criação de layouts personalizados</strong>, <strong>responsive design</strong>, <strong>apresentação de imagens impecável nas telas retina</strong> e mais algumas coisinhas, além de tudo o que o Be on the Net atual oferece.</p>
+
+<h2>Mudança na forma de pensar</h2>
+
+<p>Ainda mais importante que as mudanças que iremos fazer no Be on the Net, é a mudança que estamos fazendo na forma de pensar. Nós sempre  pensamos no computador em primeiro lugar. O smart phone era secundário.</p>
+
+<p>Acredito que essa também sempre foi a forma de pensar da maior parte de nossos clientes. Todos querem que seu site seja lindo, sobretudo no computador.</p>
+
+<p>Mas, agora que os acessos passarão a vir sobretudo dos dispositivos móveis, todos nós, incluindo nossos clientes, teremos que repensar as coisas. Fazer o site ficar mais bonito no computador já não é mais suficiente e talvez nem mesmo seja a prioridade.</p>
+
+<p>Muitos de nossos clientes gostariam de ter acesso a layouts novos o quanto antes, ou gostariam de criar layouts personalizados com mais facilidade. Isso é uma necessidade perfeitamente válida e compreensível. Mas, é preciso ir além. Esses layouts precisam, sobretudo, ser lindos e funcionar muito bem nos dispositivos móveis, especialmente no iPhone e outros smart phones.</p>
+
+<p>Levando isso em conta, percebemos que, se corrêssemos aqui para simplesmente colocar na rua alguns layouts novos, mas não solucionássemos questões críticas como responsive design e adequação a tela retina, não estaríamos contribuindo adequadamente com nossos clientes. A mudança que todos os sites do Be on the Net precisam é mais profunda e tem a ver, sobretudo, com os dispositivos móveis. É uma nova forma de pensar e precisamos nos adaptar a ela.</p>
+
+<p>Queremos comemorar esses cinco anos de Be on the Net com muito trabalho. Nosso objetivo, mais do que nunca, é agradecer a nossos fiéis clientes, muitos dos quais estão conosco desde o início.</p>
+
+<p>Se você é nosso cliente, acreditamos que trabalhar para tornar seu site ainda mais bonito e completamente preparado para os dispositivos móveis, é a melhor forma de expressar nossa gratidão e nossa permanente dedicação ao sucesso de seu site e de seu negócio. Queremos que seu site brilhe em 2014, especialmente nas telas dos smart phones, e estamos inteiramente concentrados nisso.</p>
+]]></content>
+  </entry>
+  
+</feed>
