@@ -12,6 +12,9 @@ categories:
 - simpatia
 - atendimento
 ---
+![Dinheiro](/images/dinheiro.jpg)
+[Foto](http://www.flickr.com/photos/danielneto/2941938228/sizes/z/) de [Daniel Garcia Neto](http://www.flickr.com/photos/danielneto/) disponibilizada como [Creative Commons](http://creativecommons.org/licenses/by/3.0/br/).
+
 O ano está acabando e para muitos a pergunta que fica é: como aumentar as vendas no ano que vem? Que tal duas dicas rápidas?
 
 Esse vídeo conta algumas experiências que vivenciei recentemente como consumidor. Observei as minhas reações e percebi duas coisas importantes. A gente fica tentado a fechar negócio com quem responde mais rápido e com que a gente gosta. Veja o vídeo e entenda.
