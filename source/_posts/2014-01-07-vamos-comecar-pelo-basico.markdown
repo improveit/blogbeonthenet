@@ -12,6 +12,8 @@ categories:
 - percepção
 - logotipo
 ---
+<img src="/images/comecar-pelo-basico.jpg" height="360" width="640">
+
 O Ano Novo chegou. Hora de colocar em prática as resoluções. Então, que tal começar arrumando a casa? Vamos começar pelo básico? Mas, que básico é esse?
 
 Nesse vídeo, comento sobre a impressão que nós passamos para nossos potenciais clientes. Ela é contruída com base em cada pequeno elemento que nos representa. 
