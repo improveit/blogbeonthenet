@@ -12,7 +12,7 @@ categories:
 - simpatia
 - atendimento
 ---
-<iframe width="640" height="360" src="//www.youtube.com/embed/mgecT6eo5O4?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/A1p_bF52sqk" frameborder="0" allowfullscreen></iframe>
 
 O ano está acabando e para muitos a pergunta que fica é: como aumentar as vendas no ano que vem? Que tal duas dicas rápidas?
 
