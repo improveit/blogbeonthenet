@@ -12,14 +12,11 @@ categories:
 - simpatia
 - atendimento
 ---
-![Dinheiro](/images/dinheiro.jpg)
-[Foto](http://www.flickr.com/photos/danielneto/2941938228/sizes/z/) de [Daniel Garcia Neto](http://www.flickr.com/photos/danielneto/) disponibilizada como [Creative Commons](http://creativecommons.org/licenses/by/3.0/br/).
+<iframe width="640" height="360" src="//www.youtube.com/embed/mgecT6eo5O4?rel=0" frameborder="0" allowfullscreen></iframe>
 
 O ano está acabando e para muitos a pergunta que fica é: como aumentar as vendas no ano que vem? Que tal duas dicas rápidas?
 
-Esse vídeo conta algumas experiências que vivenciei recentemente como consumidor. Observei as minhas reações e percebi duas coisas importantes. A gente fica tentado a fechar negócio com quem responde mais rápido e com que a gente gosta. Veja o vídeo e entenda.
-
-<iframe width="640" height="360" src="//www.youtube.com/embed/mgecT6eo5O4?rel=0" frameborder="0" allowfullscreen></iframe>
+Esse vídeo conta algumas experiências que vivenciei recentemente como consumidor. Observei as minhas reações e percebi duas coisas importantes. A gente fica tentado a fechar negócio com quem responde mais rápido e com que a gente gosta.
 
 Nesse vídeo, eu cito o famoso livro [Como fazer amigos e influenciar pessoas][1] de [Dale Carnegie][d]. Não se engane com o nome do livro, que faz ele parecer meio charlatão. Fique tranquilo, porque está longe de ser o caso. Esse livro é sensacional e uma tremenda aula sobre a natureza humana. Vale cada palavra e cada minuto do seu tempo. Se você quer se dar um excelente presente de Natal, aí está uma das melhores escolhas.
 

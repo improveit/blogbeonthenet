@@ -214,4 +214,4 @@ Seu sucesso depende de como você escolhe usar as 24h que recebe a cada dia. Tic
 
 Como esse é um assunto que me interessa muito e é difícil transmitir certas coisas apenas pelo texto, fiz um vídeo que discute melhor esse assunto.
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/fRw0H39fzwY?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/AFmjF2jPGuQ" frameborder="0" allowfullscreen></iframe>
