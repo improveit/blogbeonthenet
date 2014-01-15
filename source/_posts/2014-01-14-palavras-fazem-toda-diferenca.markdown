@@ -16,7 +16,7 @@ categories:
 - marketing
 ---
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/BlZELvwKIu8" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/BlZELvwKIu8" frameborder="0" allowfullscreen></iframe>
 
 É comum dizer que uma imagem vale mais que mil palavras. Mas, há situações em que tanto palavras, quanto imagens são fundamentais. Isso é particularmente verdade quando se deseja vender algo. 
 

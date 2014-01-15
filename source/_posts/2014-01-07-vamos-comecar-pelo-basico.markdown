@@ -12,7 +12,7 @@ categories:
 - percepção
 - logotipo
 ---
-<iframe width="640" height="360" src="//www.youtube.com/embed/ncGRbptS69M" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/ncGRbptS69M" frameborder="0" allowfullscreen></iframe>
 
 O Ano Novo chegou. Hora de colocar em prática as resoluções. Então, que tal começar arrumando a casa? Vamos começar pelo básico? Mas, que básico é esse?
 

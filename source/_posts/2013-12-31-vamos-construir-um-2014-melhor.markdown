@@ -10,7 +10,7 @@ categories:
 - planejamento
 - treinamento
 ---
-<iframe width="640" height="360" src="//www.youtube.com/embed/cygbRZTyRpE" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/cygbRZTyRpE" frameborder="0" allowfullscreen></iframe>
 
 O ano de 2013 foi difícil para muitos de nossos clientes, assim como para muitos empreendedores em todo o Brasil. A economia se retraiu e todos nós sentimos. 
 
