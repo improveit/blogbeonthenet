@@ -209,3 +209,9 @@ Tempo é prioridade. É organização. É fazer escolhas.
 Se você quer mandar muito bem em seu negócio, escolha dedicar seu tempo a aprender como conduzir bem um negócio. Entenda que nem o mercado, nem a concorrência são a causa de suas dificuldades. Você é quem causa dificuldades ou sucessos em seu negócio. Assuma sua responsabilidade e pare de culpar os outros.
 
 Seu sucesso depende de como você escolhe usar as 24h que recebe a cada dia. Tic tac tic tac... Escolha sabiamente. Estude, faça seu dever de casa e se aperfeiçoe. Tenha paciência e saiba que os resultados virão.
+
+**UPDATE (19/12/2013)**
+
+Como esse é um assunto que me interessa muito e é difícil transmitir certas coisas apenas pelo texto, fiz um vídeo que discute melhor esse assunto.
+
+<iframe width="640" height="360" src="http://www.youtube.com/embed/AFmjF2jPGuQ" frameborder="0" allowfullscreen></iframe>
