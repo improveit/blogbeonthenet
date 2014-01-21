@@ -1,6 +1,7 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
+/* Subscribe to email */
 .subscribe_to_mail {
   text-align:                       center;
   padding:                          15px;
@@ -44,6 +45,7 @@
     vertical-align:bottom;
   }
   .subscribe_to_mail label {
-    margin-top:                       .5em;
+    margin-top:                     .5em;
   }
 }
+/* /Subscribe to email */
