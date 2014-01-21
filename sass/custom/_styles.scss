@@ -1,2 +1,49 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+.subscribe_to_mail {
+  text-align:                       center;
+  padding:                          15px;
+  margin:                           0 0 35px;
+  background:                       lighten($beonthenet-text, 64%);
+  box-shadow:                       inset 0 0 4px rgba($beonthenet-green-darker,.35);
+
+  article & {
+    margin-top:                     30px;
+  }
+}
+
+.subscribe_to_mail h4 {
+  margin:                           0 0 .75em;
+}
+
+.subscribe_to_mail label {
+  font-size:                        90%;
+  display:                          inline-block;
+  color:                            $beonthenet-text;
+}
+.subscribe_to_mail small {
+  font-style:                       italic;
+  font-size:                        60%;
+  margin-left:                      .25em;
+  color:                            lighten($beonthenet-text, 20%);
+}
+
+.subscribe_to_mail input {
+  margin:                           .25em 0 .6em;
+}
+
+.subscribe_to_mail button {
+  margin:                           .5em 0 .25em;
+}
+
+@media screen and (min-width: 882px) {
+  .subscribe_to_mail form {
+    text-align:                     left;
+    @include                        column-count(3);
+    vertical-align:bottom;
+  }
+  .subscribe_to_mail label {
+    margin-top:                       .5em;
+  }
+}
