@@ -1,0 +1,29 @@
+{% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
+{% include head.html %}
+<body {% if page.body_id %} id="{{ page.body_id }}" {% endif %} {% if page.sidebar == false %} class="no-sidebar" {% endif %} {% if page.sidebar == 'collapse' or site.sidebar == 'collapse' %} class="collapse-sidebar sidebar-footer" {% endif %}>
+  <section class="first social_media">
+    {% include custom/social_sharing.html %}
+    {% include custom/social_links.html %}
+  </section>
+  <header role="banner">{% include header.html %}
+    {% include custom/global_search.html %}
+    <nav role="navigation">{% include navigation.html %}</nav>
+  </header>
+  <hr id="header_delimiter">
+  <div id="main">
+    <div id="content">
+      <h1>Bem-vindo ao Blog do Be on the Net!</h1>
+      <div class="blog-index boas_vindas">
+      {{ content | expand_urls: root_url }}
+      </div>
+    </div>
+  </div>
+  <hr id="footer_delimiter">
+  <footer role="contentinfo">{% include footer.html %}</footer>
+  <section class="second social_media">
+    {% include custom/social_sharing.html %}
+    {% include custom/social_links.html %}
+  </section>
+  {% include after_footer.html %}
+</body>
+</html>
