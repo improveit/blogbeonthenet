@@ -13,23 +13,7 @@
   <div id="main">
     <div id="content">
       <h1>Blog Be on the Net</h1>
-
-      <section class="subscribe_to_mail">
-        <h4>Ei, quer que avisemos sempre que sair novo vídeo ou artigo? É só preencher abaixo:</h4>
-        <form action="http://beonthe.us4.list-manage1.com/subscribe/post" method="POST" id="mergeTable" class="mergeTable">
-          <input type="hidden" name="u" value="b5756361d805d100798b37b14" />
-          <input type="hidden" name="id" value="f328925d54" />
-
-          <label for="MERGE1">Nome e um sobrenome <small>(Necessário)</small></label><br />
-          <input type="text" name="MERGE1" id="MERGE1" value="" /><br />
-          <label for="MERGE0">Seu email <small>(Necessário)</small></label><br />
-          <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" value="" /><br />
-          <!-- real people should not fill this in and expect good things -->
-          <div style="position: absolute; left: -5000px;"><input type="text" value="" /></div>
-          <button type="submit">Avise-me sobre os próximos artigos!</button>
-        </form>
-      </section>
-
+      {% include custom/subscribe.html %}
       {{ content | expand_urls: root_url }}
     </div>
   </div>
