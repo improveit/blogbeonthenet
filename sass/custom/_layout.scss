@@ -39,39 +39,102 @@ body {
 }
 
 
-/* Social networks */
-#social_networks {
-  text-align:                           right;
-  display:                              block;
-  padding:                              4px 17px;
-  
-  p {
-    height:                             16px;
-    padding:                            0;
-    margin:                             0;
-  }
-  a {
-    display:                            inline-block;
-    margin-left:                        3px;
+/* Social network */
+#social_network {
+  text-align:             right;
 
-    &:first-child {
-      float:                            left;
-      margin:                           0;
-      opacity:                          .4;
-    }
-    &:first-child:hover {
-      opacity:                          1;
-    }
+  display:                block;
+  padding:                0 27px;
+}
+
+#social_network p {
+  height:                 16px;
+  padding:                0;
+}
+
+#social_network a {
+  margin-left:            3px;
+}
+#social_network a:first-child {
+  float:                  left;
+  margin:                 0;
+
+  opacity:                .4;
+}
+#social_network a:first-child:hover {
+  opacity:                1;
+}
+/* /Social network */
+
+
+/* Social media */
+.social_media {
+  padding:                          9px;
+  margin:                           0 0 -4px;
+  color:                            #A5AC27;
+/*  background:                       rgba(0,0,0,.1);*/
+}
+.second.social_media {
+  margin-top:                       -10px;
+}
+
+.social_media section {
+  display:                          inline-block;
+  vertical-align:                   middle;
+  width:                            49.5%;
+  opacity:                          .6;
+}
+.social_media section:hover {
+  opacity:                          1;
+}
+
+.social_media em {
+  font-style:                       normal;
+  font-size:                        14px;
+}
+
+.social_media a {
+  text-decoration:                  none;
+  color:                            #DDD;
+}
+
+@media screen and (min-width:1024px) {
+  .social_media {
+    padding-right:                  60px;
+    padding-left:                   60px;
   }
-  img {
-    display:                            block;
+  .social_media section {
+    width:                          49.65%;
   }
 }
-/* /Social networks */
+
+.social_sharing > iframe, .social_sharing > div {
+  display:                          inline-block;
+  vertical-align:                   middle !important;
+}
+
+.social_links {
+  text-align:                       right;
+  height:                           32px;
+}
+
+.social_links a {
+  display:                          inline-block;
+  margin-left:                      6px;
+}
+
+.social_links img {
+  width:                            32px;
+  height:                           32px;
+  vertical-align:                   middle;
+  border-radius:                    3px;
+  box-shadow:                       0 1px 1px rgba(0, 0, 0, .75);
+}
+/* /Social media */
 
 
 /* Header, main menu */
-#social_networks + header {
+.social_media + header {
   padding:                              0 35px;
   position:                             relative;
 
