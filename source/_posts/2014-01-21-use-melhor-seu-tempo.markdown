@@ -3,7 +3,10 @@ permalink: /use-melhor-seu-tempo
 layout: post
 title: Use melhor seu tempo
 date: 2014-01-21 18:00
+thumbnail: http://i1.ytimg.com/vi/i_xz84MyCNo/maxresdefault.jpg
+description: Você queria que o dia tivesse mais de 24 horas? Não dá. Mas, é possível aproveitar melhor o dia.
 comments: true
+keywords: tempo, distração, interrupção, priorização, lista de tarefas, delegação, estratégia, organização, planejamento, empreendedor, hábito, administração do tempo, gestão do tempo, video, vinícius teles
 categories: 
 - tempo
 - distração
@@ -18,6 +21,8 @@ categories:
 - hábito
 - administração do tempo
 - gestão do tempo
+- video
+- vinícius teles
 ---
 <iframe width="640" height="360" src="http://www.youtube.com/embed/i_xz84MyCNo" frameborder="0" allowfullscreen></iframe>
 

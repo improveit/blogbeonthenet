@@ -4,17 +4,42 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+	{% capture title %}
+    {% if page.title %}
+      {{ page.title | strip_html }}
+    {% endif %}
+	{% endcapture %}
+	<title>{{ title }} - {{ site.title }}</title>
   <meta name="author" content="{{ site.author }}">
-
-  {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
-  <meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
+	{% capture page_description %}
+  	{% if page.description %}
+    	{{ page.description }}
+  	{% else %}
+    	{{ content | raw_content }}
+  	{% endif %}
+	{% endcapture %}
+	{% capture description %}
+	  {{ page_description | strip_html | condense_spaces | truncate:150 }}
+	{% endcapture %}
+  <meta name="description" content="{{ description }}">
   {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
 
   <!-- http://t.co/dKP3o1e -->
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta content='pt-BR' http-equiv='content-Language' />
+
+  <meta property="og:site_name" content="Blog do Be on the Net"/>
+  {% if page.permalink %}
+  <meta property="og:url" content="http://blog.beonthe.net{{ page.permalink }}/"/>
+  {% endif %}
+  <meta property="og:title" content="{{ title }}"/>
+  <meta property="og:type" content="website"/>
+  {% if page.thumbnail %}
+  <meta property="og:image" content="{{ page.thumbnail }}">
+  {% endif %}
+  <meta property="og:description" content="{{ description }}"/>
 
   {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
   <link rel="canonical" href="{{ canonical }}">
