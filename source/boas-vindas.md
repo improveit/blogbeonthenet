@@ -12,7 +12,7 @@ Se você não é nosso cliente, não tem nenhum problema. Seja bem-vindo da mesm
 
 Sempre que quiser, sinta-se à vontade para entrar em [contato conosco][c]. Adoraríamos saber o que você está achando dos artigos e vídeos.
 
-[Veja os vídeos e artigos mais recente!][a]
+[Veja os vídeos e artigos mais recentes!][a]
 
 [a]: /
 [c]: http://beonthe.net/contato
