@@ -3,12 +3,17 @@ permalink: /vamos-construir-um-2014-melhor
 layout: post
 title: Vamos construir um 2014 melhor?
 date: 2013-12-31 12:00
+thumbnail: http://i1.ytimg.com/vi/cygbRZTyRpE/maxresdefault.jpg
+keywords: vendas, marketing, planejamento, treinamento, video, vinícius teles
+description: A gente ganha o jogo na hora do treino. Portanto, é preciso arrumar a casa e treinar para melhor o desempenho ao longo do ano.
 comments: true
 categories: 
 - vendas
 - marketing
 - planejamento
 - treinamento
+- video
+- vinícius teles
 ---
 <iframe width="640" height="360" src="http://www.youtube.com/embed/cygbRZTyRpE" frameborder="0" allowfullscreen></iframe>
 

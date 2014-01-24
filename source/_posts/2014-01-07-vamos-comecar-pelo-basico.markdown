@@ -2,8 +2,11 @@
 permalink: /vamos-comecar-pelo-basico
 layout: post
 title: Vamos começar pelo básico?
+thumbnail: http://i1.ytimg.com/vi/ncGRbptS69M/maxresdefault.jpg
 date: 2014-01-07 13:00
 comments: true
+description: Qual a impressão que passamos para nossos clientes? Ela depende de vários pequenos elementos que comento nesse vídeo.
+keywords: preparação, marketing, planejamento, percepção, logotipo, organização, vídeo, vinícius teles
 categories: 
 - preparação
 - marketing
@@ -11,6 +14,9 @@ categories:
 - treinamento
 - percepção
 - logotipo
+- organização
+- vídeo
+- vinícius teles
 ---
 <iframe width="640" height="360" src="http://www.youtube.com/embed/ncGRbptS69M" frameborder="0" allowfullscreen></iframe>
 

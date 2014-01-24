@@ -4,6 +4,9 @@ layout: post
 title: Duas dicas para aumentar as vendas
 date: 2013-12-20 10:50
 comments: true
+keywords: vendas, dale carnegie, livro, velocidade, simpatia, atendimento, video, vinícius teles
+thumbnail: http://i1.ytimg.com/vi/A1p_bF52sqk/maxresdefault.jpg
+description: A gente tende a fechar negócio com quem atende rápido e com quem a gente gosta.
 categories: 
 - vendas
 - dale carnegie
@@ -11,6 +14,8 @@ categories:
 - velocidade
 - simpatia
 - atendimento
+- video
+- vinícius teles
 ---
 <iframe width="640" height="360" src="http://www.youtube.com/embed/A1p_bF52sqk" frameborder="0" allowfullscreen></iframe>
 

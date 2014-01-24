@@ -3,7 +3,10 @@ permalink: /palavras-fazem-toda-diferenca
 layout: post
 title: Palavras fazem toda diferença
 date: 2014-01-14 13:00
+thumbnail: http://i1.ytimg.com/vi/BlZELvwKIu8/maxresdefault.jpg
+description: Em seu site, não bastam imagens para conquistar a confiança dos compradores. É preciso adicionar texto em locais estratégicos.
 comments: true
+keywords: descrição, texto, ficha técnica, tags, utilidade, vendas, boca-a-boca, estratégia, marketing, video, vinícius teles
 categories: 
 - descrição
 - texto
@@ -14,6 +17,8 @@ categories:
 - boca-a-boca
 - estratégia
 - marketing
+- video
+- vinícius teles
 ---
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/BlZELvwKIu8" frameborder="0" allowfullscreen></iframe>
