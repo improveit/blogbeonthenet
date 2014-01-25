@@ -2,9 +2,12 @@
 permalink: /o-problema-e-a-concorrencia-ou-o-mercado
 layout: post
 title: "O problema é a concorrência? Ou o mercado?"
+thumbnail: http://blog.beonthenet.work.vm/images/grand-bazaar.jpg
+description: Mercado e concorrência afetam o sucesso do negócio, mas estão fora do nosso controle. Felizmente, o que podemos controlar, afeta ainda mais.
 date: 2013-10-09 13:50
 comments: true
 published: true
+keywords: concorrência, mercado, fotografia, fotógrafo, empreendedorismo, empreendedor, atendimento, rio de janeiro
 categories: 
 - concorrência
 - mercado

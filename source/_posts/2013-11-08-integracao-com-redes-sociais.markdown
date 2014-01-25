@@ -5,13 +5,16 @@ title: Integração com redes sociais
 date: 2013-11-08 23:11
 comments: true
 published: true
+thumbnail: http://blog.beonthenet.work.vm/images/elgrego/site-el-grego.jpg
+description: A partir de agora os sites do Be on the Net estão integrados com as redes sociais.
+keywords: rede social, facebook, twitter, google plus, instagram, wordpress, el grego, boca-a-boca, compartilhamento, integração
 categories: 
 - rede social
 - facebook
 - twitter
 - google plus
 - instagram
-- word press
+- wordpress
 - el grego
 - boca-a-boca
 - compartilhamento

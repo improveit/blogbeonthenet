@@ -1,13 +1,17 @@
 ---
 permalink: /o-que-esta-acontecendo-com-o-beonthenet
 layout: post
-title: 'O que está acontecendo com o Be on the Net?'
+title: "O que está acontecendo com o Be on the Net?"
+thumbnail: https://lh5.googleusercontent.com/-vXCjNPICizY/UtRDt1qBLyI/AAAAAAAAACQ/LmTs7dAKVcI/s630-fcrop64=1,002f0000ffcfffff/youtube_channel_art.png
+description: Saiba por que andamos quieros e por que o Be on the Net ficou sem mudanças por um bom tempo.
 published: true
 comments: true
+keywords: historia, negócio, produto, be on the net
 categories:
 - historia
 - negócio
 - produto
+- be on the net
 ---
 Se você nos acompanha ou é nosso cliente, deve ter notado que andamos quietos. E já não se notam mudanças no [Be on the Net][be] há algum tempo. Quer saber a razão?
 

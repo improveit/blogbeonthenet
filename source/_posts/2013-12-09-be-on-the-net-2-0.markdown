@@ -3,7 +3,10 @@ permalink: /be-on-the-net-2-0
 layout: post
 title: Be on the Net 2.0
 date: 2013-12-09 14:15
+thumbnail: http://blog.beonthenet.work.vm/images/marcospinheiro/colunas-desktop.jpg
+description: Sites do Be on the Net serão transformados para ter um design responsivo.
 comments: true
+keywords: responsive design, retina, mobile design, dispositivos móveis, layout, layout personalizado, design, be on the net 2.0
 categories: 
 - responsive design
 - retina
