@@ -3,8 +3,8 @@ permalink: /use-melhor-seu-dinheiro
 layout: post
 title: Use melhor seu dinheiro
 date: 2014-01-28 22:00
-thumbnail: http://i1.ytimg.com/vi/i_xz84MyCNo/maxresdefault.jpg
-description: Aprendenda a administrar bem seu dinheiro com ações práticas que você pode começar a aplicar já.
+thumbnail: https://i1.ytimg.com/vi/xztTa9mEuWE/maxresdefault.jpg
+description: Aprenda a administrar bem seu dinheiro com ações práticas que você pode começar a aplicar já.
 comments: true
 keywords: dinheiro, dívida, empréstimo, gestão do dinheiro, financiamento, fluxo de caixa, ativo, passivo, liquidez, gestão financeira, milionário mora ao lado, pai rico pai pobre, riqueza, milionário, frugal, planejamento financeiro, crédito, cartão de crédito, cheque especial, cobrança, carro zero, juros, reserva financeira, renegociação de dívida, video, vinícius teles
 categories: 
