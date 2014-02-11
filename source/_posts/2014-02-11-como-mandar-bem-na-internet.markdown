@@ -3,7 +3,7 @@ permalink: /como-mandar-bem-na-internet
 layout: post
 title: "Como mandar bem na internet?"
 date: 2014-02-11 22:00
-thumbnail: http://i1.ytimg.com/vi/jHhbV0pa614/maxresdefault.jpg
+thumbnail: http://i1.ytimg.com/vi/hqqDXgNcITc/maxresdefault.jpg
 description: Você sabe o que significa ter uma boa presença online? Como se faz para mandar muito bem na internet?
 comments: true
 keywords: site, blog, redes sociais, facebook, twitter, linkedin, google plus, pinterest, instagram, vídeos, vídeo, podcast, email, you tube, mail marketing, orkut, reputação, conteúdo, marca, marketing digital, flash, dispositivos móveis, desktop, vimeo, vínicius teles, iphone, ipad
