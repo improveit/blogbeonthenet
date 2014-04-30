@@ -4,7 +4,7 @@ layout: post
 title: "Novidade: novos temas no Be on the Net"
 date: 2014-04-30 9:00
 thumbnail: https://lh5.googleusercontent.com/-tf3nZW4OGIA/U02AyrgtZRI/AAAAAAAAAPQ/XzEfyA900Uc/s1024/pastafrola1.jpg
-description: "Você pediu, nós atendemos:2 novos temas!"
+description: "Você pediu, nós atendemos: 2 novos temas!"
 comments: true
 keywords: layout, design, web design, temas
 categories: 
